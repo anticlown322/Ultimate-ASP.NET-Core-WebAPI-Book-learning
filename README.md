@@ -17,7 +17,7 @@ Even in [this repo](/assests/documents/Ultimate.ASP.NET.Core.Web.API.Marinko.Spa
 
 My project structure differs from book because it looked to messy for me. So I've separated solution into solution folders and renamed some assemblies.
 
-[project-structure](/assests/images/project-structure.png)
+![project-structure](/assests/images/project-structure.png)
 
 It might be better to rename `Presentation.Presentation` and other main assemblies in solution folders to something simple like `Presentation`. But I'll leave it like this.
 
@@ -70,4 +70,4 @@ I didn't follow the advice:
 and applied migration for couple of times. Postman requests didn't work as expected.
 After searching for a while a finally understood the problem and edited the database fields that are responsible for roles ids.
 
-[edited-ids](/assets/images/roles-ids.png)
+![edited-ids](/assets/images/roles-ids.png)
