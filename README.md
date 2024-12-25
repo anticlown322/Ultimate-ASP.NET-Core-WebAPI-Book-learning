@@ -70,4 +70,4 @@ I didn't follow the advice:
 and applied migration for couple of times. Postman requests didn't work as expected.
 After searching for a while a finally understood the problem and edited the database fields that are responsible for roles ids.
 
-![edited-ids](/assets/images/roles-ids.png)
+![edited-ids](/assests/images/roles-ids.png)
